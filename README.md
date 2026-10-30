@@ -7,3 +7,6 @@ Welcome to Cornhub.website, a one-of-a-kind video platform with a fun, corn-them
 ## logo
 <img width="249" height="252" alt="icon" src="https://github.com/user-attachments/assets/7aabd3a0-e4b4-4374-84a9-2d58f40b8ee4" />
 
+## App for windows (only)
+
+[![Download ZIP](https://img.shields.io/badge/⬇_Download-ZIP-F5B800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FUNK1Ng-ops/REPO/archive/refs/heads/main.zip)
